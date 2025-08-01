@@ -1,6 +1,6 @@
 # Parkour-System
 A Parkour System created in Unreal Engine 5 using C++ and Blueprint.
-Note - the current project is completed in its Blueprint Form. C++ code conversion is in progress.
+- Note - the current project is completed in its Blueprint Form. C++ code conversion is in progress.
 
 ## This system contains 13 different styles of parkour
 - Sliding
