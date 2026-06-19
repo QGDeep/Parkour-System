@@ -1,11 +1,10 @@
 # Parkour-System
 A Parkour System created in Unreal Engine 5 using C++ and Blueprint.
 
-## This system contains 13 different styles of parkour
+## This system contains 12 different styles of parkour
 - Sliding
 - Beam Walking
 - Ledge Climbing
-- Cover System
 - Wall Climbing System
 - Wall Running
 - Wall Sliding
